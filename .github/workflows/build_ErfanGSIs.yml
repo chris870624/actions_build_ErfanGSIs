@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://download.h2os.com//OnePlus7Pro/OBT/OnePlus7ProHydrogen_13.X.29_OTA_029_all_2003130822_fcab24059d42463e.zip
-  ROM_NAME: H2OS
+  ROM_NAME: OxygenOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
