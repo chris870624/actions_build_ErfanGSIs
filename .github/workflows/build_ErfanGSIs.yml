@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com//OnePlus7Pro/OBT/OnePlus7ProHydrogen_13.X.29_OTA_029_all_2003130822_fcab24059d42463e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://www.coolapk.com/link?url=https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2F16th%2F9.21.11.18%2Fcn_beta%2F20211117221528%2F4e7af307%2Fupdate.zip
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
